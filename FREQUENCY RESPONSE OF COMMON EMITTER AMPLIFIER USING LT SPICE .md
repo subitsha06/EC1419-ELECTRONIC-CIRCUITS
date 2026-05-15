@@ -27,11 +27,12 @@
 ## Tabulation
 
 ## Graph
+<img width="1528" height="685" alt="WhatsApp Image 2026-05-15 at 12 08 25 PM" src="https://github.com/user-attachments/assets/ef3357fb-2599-4000-85c4-e0d5031581da" />
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN = 68dB
 
-**BANDWIDTH =**
+**BANDWIDTH =69.9Mhz
